@@ -1,6 +1,22 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Description
+This app tracks your water intake, first enter your details:
+
+
+![image](https://github.com/lioraVes/WaterTracker/assets/135438143/591e90dc-7109-4797-b322-9c84e5c6de0d)
+
+then, choose a beverage and its amount, and click on the add button, the progress bar will be updated. 
+![image](https://github.com/lioraVes/WaterTracker/assets/135438143/45c4da11-c2e9-444d-83e5-71ffea4c2fa5)
+![image](https://github.com/lioraVes/WaterTracker/assets/135438143/0418d6e4-0c76-4dd7-97bc-ce5a4bd7407b)
+
+
+go on until you get 100% !
+
+
+![image](https://github.com/lioraVes/WaterTracker/assets/135438143/e3e1346a-570b-494a-b725-aa315a22ee9e)
+
 
 ## Available Scripts
 
